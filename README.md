@@ -1,2 +1,2 @@
 # responSite
-educational site
+wlit bio
